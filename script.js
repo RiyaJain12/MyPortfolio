@@ -19,8 +19,8 @@ $(document).ready(function () {
         $('.menu-btn i').toggleClass("active");
     });
     var typed=new Typed(".typing",{
-        strings:["Web Developer","Undergrad Student","Coder","Tech enthusiast"],
-        typeSpeed:100,
+        strings:["Tech enthusiast","Coder","Web Developer"],
+        typeSpeed:150,
         backSpeed:60,
         loop:true
     })
